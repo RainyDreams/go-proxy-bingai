@@ -1,14 +1,14 @@
 # Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-!.vscode/launch.json
-.idea
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+# .vscode/*
+# !.vscode/extensions.json
+# !.vscode/launch.json
+# .idea
+# *.suo
+# *.ntvs*
+# *.njsproj
+# *.sln
+# *.sw?
 
-.DS_Store
+# .DS_Store
 
-release
+# release
